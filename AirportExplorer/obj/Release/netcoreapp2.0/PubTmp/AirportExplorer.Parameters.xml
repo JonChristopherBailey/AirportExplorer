@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="airportmap" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Jon\ Bailey\\Desktop\\ContosoUniversity\ -\ Copy\ \(3\)\\ContosoUniversity\ -\ Copy\\ContosoUniversity\ -\ Copy\ \(5\)\\Apps\\AirportExplorerzzzz\\AirportExplorer\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

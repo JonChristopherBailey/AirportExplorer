@@ -1,0 +1,60 @@
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.deps.json
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.json
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.dev.json
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csprojAssemblyReference.cache
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfoInputs.cache
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfo.cs
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\source\repos\AirportExplorer\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.deps.json
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.json
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.dev.json
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csprojAssemblyReference.cache
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfoInputs.cache
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfo.cs
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\Dropbox (icstars Socia DevOps)\Applications\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.deps.json
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.json
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.dev.json
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csprojAssemblyReference.cache
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfoInputs.cache
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfo.cs
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\Desktop\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.deps.json
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.json
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.dev.json
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csprojAssemblyReference.cache
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfoInputs.cache
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfo.cs
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\Users\Jon Bailey\Desktop\ContosoUniversity - Copy (3)\ContosoUniversity - Copy\ContosoUniversity - Copy (5)\Apps\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.deps.json
+C:\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.json
+C:\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.runtimeconfig.dev.json
+C:\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\AirportExplorerzzzz\AirportExplorer\bin\Debug\netcoreapp2.0\AirportExplorer.pdb
+C:\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csprojAssemblyReference.cache
+C:\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.csproj.CoreCompileInputs.cache
+C:\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfoInputs.cache
+C:\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.AssemblyInfo.cs
+C:\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.dll
+C:\AirportExplorerzzzz\AirportExplorer\obj\Debug\netcoreapp2.0\AirportExplorer.pdb

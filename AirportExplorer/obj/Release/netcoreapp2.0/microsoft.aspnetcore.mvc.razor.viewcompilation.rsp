@@ -1,0 +1,6 @@
+C:\AirportExplorerzzzz\AirportExplorer
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=AirportExplorer
+--content-root=C:\AirportExplorerzzzz\AirportExplorer
+--file=C:\AirportExplorerzzzz\AirportExplorer\Pages\Index.cshtml
+--file=C:\AirportExplorerzzzz\AirportExplorer\Pages\_ViewImports.cshtml
